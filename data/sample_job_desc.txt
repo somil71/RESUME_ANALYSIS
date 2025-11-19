@@ -1,0 +1,11 @@
+Senior Python Developer
+Responsibilities:
+- Develop backend services using Python and Django
+- Manage databases with SQL and PostgreSQL
+- Collaborate on ML models for data analysis
+- Use Git for version control and Docker for deployment
+
+Requirements:
+- 3+ years experience in Python, SQL
+- Familiarity with machine learning libraries like scikit-learn
+- Strong problem-solving skills

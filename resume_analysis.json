@@ -1,0 +1,35 @@
+{
+    "parsed": {
+        "name": "John Doe",
+        "email": [
+            "john.doe@email.com"
+        ],
+        "phone": [
+            "(123) 456-7890"
+        ],
+        "skills": [],
+        "education": [
+            "bachelor of science in computer science",
+            "university of example, 2015-2019"
+        ],
+        "experience": [
+            "senior developer at tech corp, 2020-present",
+            "- developed backend services in python",
+            "- managed database with sql",
+            "junior developer at startup inc, 2019-2020",
+            "- built web apps with java"
+        ]
+    },
+    "scores": {
+        "completeness": 83.33,
+        "keyword_matching": 75.0,
+        "skill_relevance": 0,
+        "total": 52.78
+    },
+    "target_keywords": [
+        "python",
+        "java",
+        "sql",
+        "git"
+    ]
+}

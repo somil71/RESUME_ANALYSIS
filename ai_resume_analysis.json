@@ -1,0 +1,162 @@
+{
+    "parsed": {
+        "name": "John Michael Doe",
+        "email": [
+            "john.doe@example.com"
+        ],
+        "phone": [
+            "415 987 2345"
+        ],
+        "skills": [
+            "Figma",
+            "PostgreSQL",
+            "C",
+            "WebSockets",
+            "S3",
+            "(cid:127) Tools: Postman",
+            "TypeScript",
+            "(cid:127) Backend: Node.js",
+            "(cid:127) Cloud: AWS (EC2",
+            "GitHub Actions",
+            "MySQL",
+            "HTML/CSS",
+            "CI/CD",
+            "(cid:127) DevOps: Docker",
+            "C++",
+            "Express.js",
+            "Kubernetes",
+            "Tailwind",
+            "Linux",
+            "Firebase",
+            "SQL",
+            "Python",
+            "Lambda)",
+            "(cid:127) Frontend: React.js",
+            "(cid:127) Languages: JavaScript",
+            "(cid:127) Database: MongoDB",
+            "REST APIs",
+            "Next.js",
+            "Git"
+        ],
+        "education": [
+            "B.Tech in Computer Science — IILM University (2021–2025)",
+            "CGPA: 8.6/10"
+        ],
+        "experience": [
+            "Software Developer Intern — ABC Technologies (May 2024 – Aug 2024)",
+            "(cid:127) Built REST APIs using Node.js and Express.js",
+            "(cid:127) Designed reusable UI components in React",
+            "(cid:127) Improved database performance by 30% through optimized queries",
+            "Web Development Intern — PixelSoft (Jan 2024 – Mar 2024)",
+            "(cid:127) Developed frontend using React + Tailwind",
+            "(cid:127) Integrated Firebase authentication and Firestore DB",
+            "(cid:127) Collaborated in Agile sprints with a 6nmember team",
+            "PROJECTS",
+            "ChatSphere — RealnTime Chat Application",
+            "(cid:127) Tech: React, Node.js, Socket.io, Firebase",
+            "(cid:127) Features: Realntime messaging, file sharing, typing indicators",
+            "EventHub — Event Booking Platform",
+            "(cid:127) MERN stack, JWT authentication, Admin Dashboard",
+            "CERTIFICATIONS",
+            "(cid:127) AWS Cloud Practitioner – 2024",
+            "(cid:127) Data Structures & Algorithms – Coursera"
+        ]
+    },
+    "scores": {
+        "final_score": 60.19,
+        "breakdown": {
+            "completeness": 15.0,
+            "skill_match": 15.895762982071728,
+            "experience_relevance": 7.405354038757436,
+            "projects_cert": 6.887313604354858,
+            "seniority": 15.0
+        },
+        "diagnostics": {
+            "completeness": 15.0,
+            "skill_match": {
+                "target_keywords_used": [
+                    "mysql html/css ci/cd",
+                    "actions mysql html/css",
+                    "cid 127",
+                    "c++ express.js kubernetes",
+                    "docker c++ express.js",
+                    "github actions mysql",
+                    "figma postgresql c",
+                    "html/css ci/cd cid",
+                    "express.js kubernetes tailwind",
+                    "tools postman typescript",
+                    "127 languages javascript",
+                    "languages javascript cid",
+                    "postgresql c websockets",
+                    "react node.js socket.io",
+                    "postman typescript cid",
+                    "127 frontend react.js",
+                    "frontend react.js cid",
+                    "database mongodb rest",
+                    "tech react node.js",
+                    "devops docker c++",
+                    "mongodb rest apis",
+                    "react + tailwind",
+                    "aws ec2 github",
+                    "structures algorithms coursera",
+                    "authentication and firestore",
+                    "node.js socket.io firebase",
+                    "data structures algorithms",
+                    "kubernetes tailwind linux",
+                    "node.js and express.js",
+                    "aws cloud practitioner",
+                    "127 database mongodb",
+                    "frontend using react",
+                    "127 backend node.js",
+                    "backend node.js cid",
+                    "firebase sql python",
+                    "components in react",
+                    "ec2 github actions",
+                    "next.js git b.tech",
+                    "and express.js cid",
+                    "127 devops docker"
+                ],
+                "exact_matches": [
+                    "mysql html/css ci/cd",
+                    "actions mysql html/css",
+                    "c++ express.js kubernetes",
+                    "docker c++ express.js",
+                    "github actions mysql",
+                    "figma postgresql c",
+                    "express.js kubernetes tailwind",
+                    "postgresql c websockets",
+                    "mongodb rest apis",
+                    "kubernetes tailwind linux",
+                    "firebase sql python",
+                    "ec2 github actions"
+                ],
+                "exact_ratio": 0.3,
+                "embedding_similarity": 0.7562216520309448,
+                "per_skill_avg": 0.26324718946526793,
+                "raw_score_0_1": 0.45416465663062083,
+                "scaled_to_weight": 15.895762982071728
+            },
+            "experience_relevance": {
+                "avg_similarity": 0.29621416155029745,
+                "scaled": 7.405354038757436
+            },
+            "projects_cert": {
+                "found_certs": [
+                    "certification",
+                    "aws"
+                ],
+                "sim": 0.48121893405914307,
+                "raw": 0.6887313604354859,
+                "scaled": 6.887313604354858
+            },
+            "seniority": {
+                "num_exp": 17,
+                "num_skills": 29,
+                "raw": 1.0,
+                "scaled": 15.0
+            }
+        }
+    },
+    "job_desc_used": false,
+    "job_desc_text": null
+}

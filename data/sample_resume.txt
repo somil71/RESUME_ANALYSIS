@@ -1,0 +1,18 @@
+John Doe
+Software Engineer
+john.doe@email.com
+(123) 456-7890
+
+Skills: Python, Java, SQL, Git, Docker
+
+Education:
+Bachelor of Science in Computer Science
+University of Example, 2015-2019
+
+Experience:
+Senior Developer at Tech Corp, 2020-Present
+- Developed backend services in Python
+- Managed database with SQL
+
+Junior Developer at StartUp Inc, 2019-2020
+- Built web apps with Java
